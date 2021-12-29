@@ -13,4 +13,3 @@ print("||""||".center(width))
 print("!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!".center(ground))
 print("SIDHARTH SHALAT T")
 print("S1 ME")
-          
